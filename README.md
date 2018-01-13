@@ -6,3 +6,5 @@ live demo at mdevgaonkar.github.io/MyJavascript30
 
 - Day 1 : Drum kit with JS.
 - Day 2 : JS and CSS Clock. 
+- Day 3 : Playing with CSS variables
+- Day 4 : Array exercise ....need to revisit again
