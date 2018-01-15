@@ -9,3 +9,4 @@ live demo at mdevgaonkar.github.io/MyJavascript30
 - Day 3 : Playing with CSS variables
 - Day 4 : Array exercise ....need to revisit again
 - Day 5 : Flex panels. Must use in every design
+- Day 6 : Type ahead festure. now I can put this to use more often.
