@@ -12,3 +12,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 5 : Flex panels. Must use in every design
 - Day 6 : Type ahead festure. now I can put this to use more often.
 - Day 7 : Array exercise again ....today this was a breez
+- Day 8 : HTML5 canvas is fun... 
