@@ -34,8 +34,8 @@
     [lastX, lastY] = [e.offsetX,e.offsetY];
     hue >= 360? hue=0: hue++;
     if(ctx.lineWidth >=100 || ctx.lineWidth <= 1) direction=!direction;
-    direction? ctx.lineWidth++ : ctx.lineWidth --;
-    console.log(ctx.lineWidth);
+    direction? ctx.lineWidth++ : ctx.lineWidth--;
+    // console.log(ctx.lineWidth);
     
 
   }
@@ -47,6 +47,13 @@
   canvas.addEventListener('mouseup', () => {isDraw=false});
   canvas.addEventListener('mouseout', () => {isDraw=false});
 
+  canvas.addEventListener('touchmove', draw);
+  canvas.addEventListener('touchstart',(e) => {
+    isDraw = true;
+    [lastX, lastY] =[e.offsetX, e.offsetY];
+  });
+  canvas.addEventListener('touchend', () => {isDraw=false});
+  canvas.addEventListener('touchleave', () => {isDraw=false});
 
   
 </script>
