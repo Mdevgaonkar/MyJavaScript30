@@ -15,3 +15,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 8  : HTML5 canvas is fun... 
 - Day 9  : Console workout... useful everyday
 - Day 10 : Shift select on checkboxes
+- Day 11 : Custom Video viewer
