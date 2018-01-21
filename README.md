@@ -16,3 +16,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 9  : Console workout... useful everyday
 - Day 10 : Shift select on checkboxes
 - Day 11 : Custom Video viewer
+- Day 12 : Key Sequence Detection..can be used in may cases like OTP verification
