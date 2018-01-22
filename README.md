@@ -18,3 +18,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 11 : Custom Video viewer
 - Day 12 : Key Sequence Detection..can be used in may cases like OTP verification
 - Day 13 : Slide In on Scroll... very useful in landing pages.
+- Day 14 : Refrences Vs Copy ... Most of the debugging lies in this concept.
