@@ -23,3 +23,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 16 : Dynamic CSS Shadow... awesome!
 - Day 17 : Condition based sorting.
 - Day 18 : Time addition using map and reduce;
+- Day 19 : Webcam Fun.. but CPU intesnsive..
