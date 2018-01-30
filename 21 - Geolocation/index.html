@@ -63,7 +63,9 @@
 
     navigator.geolocation.watchPosition((data) => {
       console.log(data);
+      //get speed data
       speed.textContent = data.coords.speed;
+      //get direction data
       arrow.style.transform = `rotate(${data.coords.heading}deg)`;
     }, (err) => {
       console.error(err);
