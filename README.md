@@ -28,3 +28,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 21 : Geolocation on the web...  
 - Day 22 : Follow along Highligting... pretty awesome.
 - Day 23 : Speech synthesis with inbuilt API
+- Day 24 : Fixed navbar without any jquery..
