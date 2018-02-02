@@ -29,3 +29,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 22 : Follow along Highligting... pretty awesome.
 - Day 23 : Speech synthesis with inbuilt API
 - Day 24 : Fixed navbar without any jquery..
+- Day 25 : Propagation bubbling and event capture.
