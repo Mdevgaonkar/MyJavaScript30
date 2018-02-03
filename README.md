@@ -30,3 +30,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 23 : Speech synthesis with inbuilt API
 - Day 24 : Fixed navbar without any jquery..
 - Day 25 : Propagation bubbling and event capture.
+- Day 26 : Hovering Nav drop downs
