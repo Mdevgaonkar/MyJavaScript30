@@ -32,3 +32,4 @@ https://mdevgaonkar.github.io/MyJavaScript30/
 - Day 25 : Propagation bubbling and event capture.
 - Day 26 : Hovering Nav drop downs
 - Day 27 : Drag scroll will cool JS and CSS
+- Day 28 : Video speed regulator.
